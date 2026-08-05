@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prakyats/LeetCode/tree/master/0020-valid-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prakyats/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/prakyats/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prakyats/LeetCode/tree/master/0283-move-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prakyats/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prakyats/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
