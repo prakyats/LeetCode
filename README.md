@@ -16,5 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
