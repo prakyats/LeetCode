@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prakyats/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prakyats/LeetCode/tree/master/0283-move-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3925-concatenate-array-with-reverse](https://github.com/prakyats/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
