@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prakyats/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prakyats/LeetCode/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3925-concatenate-array-with-reverse](https://github.com/prakyats/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
