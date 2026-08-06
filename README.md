@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prakyats/LeetCode/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 | [3925-concatenate-array-with-reverse](https://github.com/prakyats/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/prakyats/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
