@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prakyats/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/prakyats/LeetCode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prakyats/LeetCode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
