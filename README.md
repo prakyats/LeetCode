@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prakyats/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/prakyats/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/prakyats/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/prakyats/LeetCode/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
