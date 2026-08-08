@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prakyats/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/prakyats/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/prakyats/LeetCode/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/prakyats/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/prakyats/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
