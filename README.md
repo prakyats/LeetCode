@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/prakyats/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/prakyats/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/prakyats/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/prakyats/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/prakyats/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prakyats/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prakyats/LeetCode/tree/master/0876-middle-of-the-linked-list) |
