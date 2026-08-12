@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prakyats/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/prakyats/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/prakyats/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/prakyats/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prakyats/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakyats/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/prakyats/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakyats/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prakyats/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
