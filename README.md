@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/prakyats/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/prakyats/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
