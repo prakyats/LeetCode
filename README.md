@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prakyats/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/prakyats/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prakyats/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/prakyats/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/prakyats/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/prakyats/LeetCode/tree/master/0048-rotate-image) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prakyats/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/prakyats/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/prakyats/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
