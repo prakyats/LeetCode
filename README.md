@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prakyats/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/prakyats/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prakyats/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prakyats/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prakyats/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/prakyats/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prakyats/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/prakyats/LeetCode/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/prakyats/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/prakyats/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/prakyats/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prakyats/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/prakyats/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/prakyats/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/prakyats/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prakyats/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/prakyats/LeetCode/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/prakyats/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prakyats/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prakyats/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Matrix
@@ -170,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prakyats/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/prakyats/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
