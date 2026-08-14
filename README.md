@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prakyats/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/prakyats/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prakyats/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/prakyats/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prakyats/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Array
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prakyats/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
