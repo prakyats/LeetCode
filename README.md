@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prakyats/LeetCode/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/prakyats/LeetCode/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prakyats/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/prakyats/LeetCode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prakyats/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3925-concatenate-array-with-reverse](https://github.com/prakyats/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prakyats/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prakyats/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/prakyats/LeetCode/tree/master/0867-transpose-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prakyats/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Greedy
 |  |
