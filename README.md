@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prakyats/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prakyats/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Array
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prakyats/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prakyats/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/prakyats/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3925-concatenate-array-with-reverse](https://github.com/prakyats/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prakyats/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prakyats/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prakyats/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prakyats/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Greedy
 |  |
 | ------- |
