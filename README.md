@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/prakyats/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/prakyats/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prakyats/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/prakyats/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/prakyats/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/prakyats/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
