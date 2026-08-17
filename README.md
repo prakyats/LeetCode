@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prakyats/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/prakyats/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/prakyats/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/prakyats/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prakyats/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/prakyats/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/prakyats/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/prakyats/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3925-concatenate-array-with-reverse](https://github.com/prakyats/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/prakyats/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/prakyats/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2206-divide-array-into-equal-pairs](https://github.com/prakyats/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prakyats/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/prakyats/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/prakyats/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
