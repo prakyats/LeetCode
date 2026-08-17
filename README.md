@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prakyats/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/prakyats/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/prakyats/LeetCode/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prakyats/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/prakyats/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/prakyats/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Pigeonhole Principle
