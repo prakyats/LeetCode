@@ -88,6 +88,7 @@ A collection of LeetCode questions that i've solved - https://leetcode.com/praky
 | [0867-transpose-matrix](https://github.com/prakyats/LeetCode/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakyats/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prakyats/LeetCode/tree/master/1002-find-common-characters) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prakyats/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prakyats/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakyats/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prakyats/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions that i've solved - https://leetcode.com/praky
 | [0268-missing-number](https://github.com/prakyats/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prakyats/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/prakyats/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prakyats/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/prakyats/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
